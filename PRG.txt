@@ -1,0 +1,3 @@
+coche -https://dle.rae.es/coche
+teclado -https://dle.rae.es/teclado?m=form
+ordenador -https://dle.rae.es/ordenador?m=form
